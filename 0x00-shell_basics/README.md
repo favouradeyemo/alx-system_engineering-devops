@@ -1,1 +1,1 @@
-this script will print the absolute path
+list of my current directory
